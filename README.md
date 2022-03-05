@@ -1,4 +1,4 @@
-# StudentSpringBootv3
+# Student Administration System v3
 Student Administration System
 
 A project created with:
